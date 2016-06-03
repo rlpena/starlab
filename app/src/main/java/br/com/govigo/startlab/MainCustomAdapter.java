@@ -1,5 +1,6 @@
 package br.com.govigo.startlab;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -45,6 +46,7 @@ public class MainCustomAdapter extends BaseAdapter {
         return position;
     }
 
+    @SuppressLint("DefaultLocale")
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
