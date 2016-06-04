@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_router">http://stage.govigo.com.br/starlab</string>
+    <string name="credential">cmFmYTpSQGZhM2xhNg==</string>
+</resources>

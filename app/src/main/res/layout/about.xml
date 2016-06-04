@@ -18,7 +18,7 @@
             android:id="@+id/imageView2"
             android:layout_gravity="center_horizontal"
             android:src="@drawable/art_clear"
-            android:contentDescription=""
+            android:contentDescription="@string/service_router"
             android:layout_weight="0.53" />
 
         <TextView
@@ -39,7 +39,7 @@
             android:gravity="center_horizontal"
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.06"
-            android:textSize="30dp" />
+            android:textSize="30sp" />
 
         <TextView
             android:layout_width="wrap_content"
